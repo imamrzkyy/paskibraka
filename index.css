@@ -1,0 +1,56 @@
+.banner {
+  background-image: url(image/gambarppi1.jpg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 40%;
+  color: #061708;
+}
+
+/* untuk mengubah ppijakbar yg di atas */
+.navbar-brand {
+  color: rgb(37, 124, 44);
+}
+
+.tentang {
+  background-color: rgb(241, 243, 241);
+}
+
+.tim img {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+.Contact{
+    background: url(image/ppi2.jpg);
+    color: #fff;
+
+}
+/* .profile-container{
+  display: flex;
+  justify-content: center;
+
+}
+.text-profile{
+  width: 500px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.img-container{
+  width: 400px;
+  display: flex;
+  align-items: center;
+  row-gap: 2px;
+  flex-direction: column;
+} */
+
+.copyright{
+  width:100vw;
+  display: flex;
+  justify-content: center;
+  font-size: large;
+}
+
+*{
+  text-decoration: none !important;
+}
